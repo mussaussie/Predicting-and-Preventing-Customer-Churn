@@ -1,0 +1,96 @@
+# -------------------------
+# Python / Jupyter Files
+# -------------------------
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.ipynb_checkpoints/
+*.env
+*.venv
+.env
+.venv
+.DS_Store
+
+# -------------------------
+# Jupyter Notebook Metadata
+# -------------------------
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+*.ipynb_meta.json
+
+# -------------------------
+# Virtual Environments
+# -------------------------
+venv/
+env/
+ENV/
+.venv/
+
+# -------------------------
+# Data Files
+# -------------------------
+data/raw/
+data/interim/
+data/temp/
+*.csv
+*.xlsx
+*.xls
+*.ods
+*.sav
+*.dat
+*.zip
+*.tar
+*.gz
+
+# (Optional) If you only want to keep final feature_importance.csv
+# !data/Feature_Importance.csv
+
+# -------------------------
+# Tableau Files
+# -------------------------
+*.hyper
+*.tde
+*.twbr
+*.tds
+*.tdsx
+*.tde
+*.twb~$
+Backup_of_*.twb
+temp_*.twb
+
+# -------------------------
+# Logs and Outputs
+# -------------------------
+*.log
+logs/
+outputs/
+__pycache__/
+*.bak
+
+# -------------------------
+# OS / Editor Specific
+# -------------------------
+Thumbs.db
+.DS_Store
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# -------------------------
+# Model and Binary Files
+# -------------------------
+*.pkl
+*.joblib
+*.h5
+*.hdf5
+*.model
+*.bin
+
+# -------------------------
+# Miscellaneous
+# -------------------------
+*.bak
+*.tmp
+*.temp
