@@ -129,9 +129,7 @@ Once trained, this model can be **deployed to predict churn on new data** — wh
 
 ---
 
-## 🧠 Handling the “Not Perfect Model” Question
 
-If asked, “Why isn’t your model perfectly accurate?”:
 
 > In business reality, perfect prediction is impossible because customer churn is influenced by unrecorded human factors (mood, competitors, personal life).  
 > Instead of aiming for 100% accuracy, our goal is **consistent, explainable prediction** that segments customers into actionable risk groups.  
@@ -139,7 +137,6 @@ If asked, “Why isn’t your model perfectly accurate?”:
 
 ---
 
-## 🧠 Handling the “How Does It Help the Business” Question
 
 > This project transforms raw data into **decisions**.  
 > By predicting who is likely to churn and why, managers can:  
